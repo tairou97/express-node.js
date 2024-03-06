@@ -23,8 +23,7 @@ Here, I’m listing down what are the major areas that I’m gonna cover in this
 
 
 <h3>Install NPM packages on the project</h3>
-
-<a> www.npmjs.com </a>
+    <a href=" www.npmjs.com target="_blank" rel="noopener noreferrer"> www.npmjs.com</a>
 host thousand of NPM packages for various objectives. There is a simple command for installing NPM packages. To install a any NPM package you need to type the below command in the cmd:
 
 
