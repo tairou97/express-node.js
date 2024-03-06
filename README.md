@@ -17,11 +17,15 @@ Here, I’m listing down what are the major areas that I’m gonna cover in this
 <span>How to install Node.js on the computer.</span>
 <span>How to install an NPM package.</span>
 
-<h3>Install Visual cade Edior
+<h3>Install Node on your computer
 </h3>
-<p>There are a bunch of code editors available for programmers. But VS code is the more popular one since it is free, light-weight, less complex, cool extensions, etc. So, my recommendation is to get VS code as your code editor. Download it here.</p>
+<p>Instaling Node on your computer is a piece of cake. You just need to visit the Node side and download the recommended version for most users. Then all you need is to click that downloaded .exe file and follow the simple installation process. You can check whether it is successful or not by typing node — version or node -v in the command prompt.</p>
 
 
+<h3>Install NPM packages on the project</h3>
+
+<a> www.npmjs.com </a>
+host thousand of NPM packages for various objectives. There is a simple command for installing NPM packages. To install a any NPM package you need to type the below command in the cmd:
 
 
 
